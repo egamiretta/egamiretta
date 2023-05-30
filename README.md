@@ -1,4 +1,4 @@
-# My New Read Me File
+# About Me
 
 _I'm praticing coding through GitHub. This is my first time doing this._
 
@@ -12,10 +12,10 @@ _I'm praticing coding through GitHub. This is my first time doing this._
 -->
 
 <details id=0>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>Welcome</h2></
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour. 
 I'm another person trying to learn this program. My name is Egami. 
+Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023). 
 
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
