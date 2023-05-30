@@ -44,8 +44,6 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
-<details id=1>
   
 <summary><h2>Current!</h2></summary>
 
