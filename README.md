@@ -21,9 +21,7 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 - **What do I want to build first?**: The first thing I really want to build is a plugin or plugins for a minecraft server my friend asked me to work on.
 - **Do you even know what you're doing?**: LMFAO. Hell no. I just got here.
 
-**Course tips:**
 
-* Glossary terms will be _emphasised_ and linked to their definition.
 
 ## How to start this course
 
