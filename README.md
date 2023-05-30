@@ -73,7 +73,7 @@ _Shit I actually did myself :wave:_
 
 **I created my first personal repository 
 
-**I made a ReadMe.md and started editing it :happy:_
+**I made a ReadMe.md and started editing it
 
 6. Move on to Step 2!
 
