@@ -88,7 +88,7 @@ _Shit I actually did myself :wave:_
 -->
 
 <details id=2>
-<summary><h2>Step 2: Commit a file</h2></summary>
+<summary><h2>Current Small Goals</h2></summary>
 
 _You created a branch! :tada:_
 
