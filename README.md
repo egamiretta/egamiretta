@@ -46,6 +46,11 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 -->
 
 <details id=1>
+  
+<summary><h2>Current!</h2></summary>
+
+</details>
+
 <summary><h2>Current Achievements</h2></summary>
 
 _Shit I actually did myself :wave:_
@@ -67,7 +72,6 @@ _Shit I actually did myself :wave:_
 
    **Note**: If you made a public repository, and want to confirm you correctly set up your first branch, wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
 
-</details>
 
 <!--
   <<< Author notes: Step 2 >>>
