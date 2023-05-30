@@ -204,11 +204,9 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 
 
 <details id=5>
-</details>
-
 <summary><h2>Current Projects</h2></summary>
-
+</details>
+<details id=6>
 <summary><h2>Links to Notes</h2></summary>
-
 </details>
 
