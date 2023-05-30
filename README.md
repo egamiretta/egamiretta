@@ -202,6 +202,12 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 
 </details>
 
+<!--
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+-->
+
 <details id=5>
 <summary><h2>Current Projects</h2></summary>
 </details>
