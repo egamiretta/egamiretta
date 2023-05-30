@@ -73,6 +73,8 @@ _Shit I actually did myself :wave:_
 
 **I created my first personal repository 
 
+**I made a ReadMe.md and started editing it :happy:_
+
 6. Move on to Step 2!
 
    **Note**: If you made a public repository, and want to confirm you correctly set up your first branch, wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
