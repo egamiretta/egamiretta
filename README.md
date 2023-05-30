@@ -12,7 +12,7 @@ _I'm praticing coding through GitHub. This is my first time doing this._
 -->
 
 <details id=0>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>Egami</h2></summary>
 
 I'm another person trying to learn this program. My name is Egami. 
 Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023). 
@@ -21,11 +21,15 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 - **What do I want to build first?**: The first thing I really want to build is a plugin or plugins for a minecraft server my friend asked me to work on.
 - **Do you even know what you're doing?**: LMFAO. Hell no. I just got here.
 
-**Course tips:**
 
-* Glossary terms will be _emphasised_ and linked to their definition.
+<summary>Instagram: https://instagram.com/egamiretta
+Twitter: https://twitter.com/egamiretta
+Tiktok: https://tiktok.com/@egamiretta 
+Twitch?? coming soon?
+<summary>
 
-## How to start this course
+</details>
+
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
@@ -38,16 +42,6 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 }).toString()
 -->
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-</details>
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -56,8 +50,10 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+  
 <details id=1>
+  <summary><h2>Current!</h2></summary>
+
 <summary><h2>Current Achievements</h2></summary>
 
 _Shit I actually did myself :wave:_
@@ -75,11 +71,11 @@ _Shit I actually did myself :wave:_
 
 **I made a ReadMe.md and started editing it
 
+**I linked my social media accounts to my GitHub. 
 6. Move on to Step 2!
 
    **Note**: If you made a public repository, and want to confirm you correctly set up your first branch, wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
 
-</details>
 
 <!--
   <<< Author notes: Step 2 >>>
@@ -131,7 +127,6 @@ The following steps will guide you through the process of committing a change on
    **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
 
 </details>
-
 <!--
   <<< Author notes: Step 3 >>>
   Just a historic note: the previous version of this step forced the learner
@@ -176,7 +171,6 @@ To create a pull request automatically, click **Compare & pull request**, and th
    **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one. As a perk, you may see evidence of GitHub Actions running on the tab with the pull request opened! The image below shows a line you might see on your pull request after the Action finishes running.
 
    <img alt="screenshot of an example of an actions line" src="/images/Actions-to-step-4.png"/>
-
 </details>
 
 <!--
@@ -210,54 +204,15 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 4. Check out the **Finish** step to see what you can learn next!
 
    **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
-
 </details>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
 
-<details id=X open>
-<summary><h2>Finish</h2></summary>
 
-_Congratulations, you've completed this course and joined the world of developers!_
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
-
-Here's a recap of your accomplishments:
-
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
-
-### What's next?
-
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
-
-Check out these resources to learn more or get involved:
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
+<details id=5>
+<summary><h2>Current Projects</h2></summary>
 </details>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+<details id=6>
+<summary><h2>Links to Notes</h2></summary>
+</details>
 
