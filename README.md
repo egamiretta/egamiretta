@@ -119,7 +119,7 @@ The following steps will guide you through the process of committing a change on
 
    **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
 
-
+</details>
 <!--
   <<< Author notes: Step 3 >>>
   Just a historic note: the previous version of this step forced the learner
@@ -164,7 +164,7 @@ To create a pull request automatically, click **Compare & pull request**, and th
    **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one. As a perk, you may see evidence of GitHub Actions running on the tab with the pull request opened! The image below shows a line you might see on your pull request after the Action finishes running.
 
    <img alt="screenshot of an example of an actions line" src="/images/Actions-to-step-4.png"/>
-
+</details>
 
 <!--
   <<< Author notes: Step 4 >>>
@@ -197,13 +197,8 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 4. Check out the **Finish** step to see what you can learn next!
 
    **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
+</details>
 
-
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
 
 <details id=5>
 <summary><h2>Current Projects</h2></summary>
