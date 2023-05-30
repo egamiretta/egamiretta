@@ -60,7 +60,7 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 <details id=1>
 <summary><h2>Current Achievements</h2></summary>
 
-_Shit I actually did myself. "Introduction to GitHub"! :wave:_
+_Shit I actually did myself :Wave:_
 
 
 **I made my first repository
