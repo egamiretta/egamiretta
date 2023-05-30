@@ -22,6 +22,9 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 - **Do you even know what you're doing?**: LMFAO. Hell no. I just got here.
 
 
+<summary>["Instagram"]"(https://instagram.com/egamiretta)".
+
+
 </details>
 
 
