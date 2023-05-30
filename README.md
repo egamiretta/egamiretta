@@ -255,4 +255,5 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 
 <summary><h2>Links to Notes</h2></summary>
 
+</details>
 
