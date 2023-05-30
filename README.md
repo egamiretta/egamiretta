@@ -17,11 +17,9 @@ _I'm praticing coding through GitHub. This is my first time doing this._
 I'm another person trying to learn this program. My name is Egami. 
 Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023). 
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This course is four steps long and takes less than one hour to complete.
+- **Why did I decide to learn this?**: I needed to learn something new. I also was tired of software, plugins or games that I desired not existing. So I decided I should try learning how to make the stuff I want myself. 
+- **What do I want to build first?**: The first thing I really want to build is a plugin or plugins for a minecraft server my friend asked me to work on.
+- **Do you even know what you're doing?**: LMFAO. Hell no. I just got here.
 
 **Course tips:**
 
