@@ -58,20 +58,20 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 -->
 
 <details id=1>
-<summary><h2>Step 1: Create a branch</h2></summary>
+<summary><h2>Current Achievements</h2></summary>
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_Shit I actually did myself. "Introduction to GitHub"! :wave:_
 
 
 **I made my first repository
 
 **I made my first branch
 
-** I submitted my first pull request
+**I submitted my first pull request
 
-** I completed my first merge
+**I completed my first merge
 
-** I created my first personal repository 
+**I created my first personal repository 
 
 6. Move on to Step 2!
 
