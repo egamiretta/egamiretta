@@ -48,8 +48,6 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 <details id=1>
   <summary><h2>Current!</h2></summary>
 
-</details>
-
 <summary><h2>Current Achievements</h2></summary>
 
 _Shit I actually did myself :wave:_
