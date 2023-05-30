@@ -119,7 +119,6 @@ The following steps will guide you through the process of committing a change on
 
    **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
 
-</details>
 
 <!--
   <<< Author notes: Step 3 >>>
@@ -166,7 +165,6 @@ To create a pull request automatically, click **Compare & pull request**, and th
 
    <img alt="screenshot of an example of an actions line" src="/images/Actions-to-step-4.png"/>
 
-</details>
 
 <!--
   <<< Author notes: Step 4 >>>
@@ -200,7 +198,6 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 
    **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions](https://docs.github.com/en/actions) will automatically close this step and open the next one.
 
-</details>
 
 <!--
   <<< Author notes: Step 2 >>>
