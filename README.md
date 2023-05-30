@@ -22,6 +22,9 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 - **Do you even know what you're doing?**: LMFAO. Hell no. I just got here.
 
 
+</details>
+
+
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
   template_owner: 'skills',
