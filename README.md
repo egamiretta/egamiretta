@@ -2,15 +2,6 @@
 
 _I'm praticing coding through GitHub. This is my first time doing this._
 
-<!--
-  <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
-
 <details id=0>
 <summary><h2>Egami</h2></summary>
 
@@ -26,33 +17,13 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 <details id=4>
 <summary><h3>Socials</h3></summary>
   
-  Instagram: https://instagram.com/egamiretta
+Instagram: https://instagram.com/egamiretta
 Twitter: https://twitter.com/egamiretta
 Tiktok: https://tiktok.com/@egamiretta 
 Twitch?? coming soon?
 </details>
-
 </details>
 
-
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'introduction-to-github',
-  owner: '@me',
-  name: 'skills-introduction-to-github',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
     
 <details id=3>
   <summary><h2>Current!</h2></summary>
@@ -61,20 +32,15 @@ Twitch?? coming soon?
 
 _<h3>Shit I actually did myself</h3>_
 
-**I made my first repository
-
-**I made my first branch
-
-**I submitted my first pull request
-
-**I completed my first merge
-
-**I created my first personal repository 
-
-**I made a ReadMe.md and started editing it
-
-**I linked my social media accounts to my GitHub. 
+-**I made my first repository
+-**I made my first branch
+-**I submitted my first pull request
+-**I completed my first merge
+-**I created my first personal repository 
+-**I made a ReadMe.md and started editing it
+-**I linked my social media accounts to my GitHub. 
 </details>
+
 
 <details id=2>
 <summary><h2>Current Small Goals</h2></summary>
@@ -82,10 +48,7 @@ _<h3>Shit I actually did myself</h3>_
 
 <details id=5>
 <summary><h2>Current Projects</h2></summary>
-</details>
-
-
-</details>
+</details> </details>
 
 <details id=6>
 <summary><h2>Links to Notes</h2></summary>
