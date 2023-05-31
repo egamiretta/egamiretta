@@ -55,6 +55,7 @@ Twitch?? coming soon?
   <summary><h2>Current!</h2></summary>
 </details>
 
+<details id=3>
 <summary><h2>Current Achievements</h2></summary>
 
 _Shit I actually did myself :wave:_
@@ -73,8 +74,7 @@ _Shit I actually did myself :wave:_
 **I made a ReadMe.md and started editing it
 
 **I linked my social media accounts to my GitHub. 
-6. Move on to Step 2!
-
+</details>
 
 <details id=2>
 <summary><h2>Current Small Goals</h2></summary>
