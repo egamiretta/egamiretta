@@ -34,8 +34,6 @@ Twitch?? coming soon?
 </details>
 
 
-
-
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
   template_owner: 'skills',
@@ -46,7 +44,6 @@ Twitch?? coming soon?
   visibility: 'public',
 }).toString()
 -->
-
 
 <!--
   <<< Author notes: Step 1 >>>
