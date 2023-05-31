@@ -22,12 +22,13 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 - **Do you even know what you're doing?**: LMFAO. Hell no. I just got here.
 
 <details id=4>
-<summary>Instagram: https://instagram.com/egamiretta
+<summary><h3>Socials</h3><summary>
+  Instagram: https://instagram.com/egamiretta
 Twitter: https://twitter.com/egamiretta
 Tiktok: https://tiktok.com/@egamiretta 
 Twitch?? coming soon?
-<summary>
 </details id=4>
+
 </details id=0>
 
 
