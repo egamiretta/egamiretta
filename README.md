@@ -31,13 +31,13 @@ Twitch?? coming soon?
 
 _<h3>Shit I actually did myself</h3>_
 
--**I made my first repository
--**I made my first branch
--**I submitted my first pull request
--**I completed my first merge
--**I created my first personal repository 
--**I made a ReadMe.md and started editing it
--**I linked my social media accounts to my GitHub. 
+- **I made my first repository**
+- **I made my first branch**
+- **I submitted my first pull request**
+- **I completed my first merge**
+- **I created my first personal repository**
+- **I made a ReadMe.md and started editing it**
+- **I linked my social media accounts to my GitHub.**
 </details>
 
 
@@ -47,6 +47,7 @@ _<h3>Shit I actually did myself</h3>_
 
 <details id=5>
 <summary><h2>Current Projects</h2></summary>
+- **working on a friend's minecraft server**
 </details></details>
 
 <details id=6>
