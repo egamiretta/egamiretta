@@ -30,7 +30,7 @@ Twitter: https://twitter.com/egamiretta
 Tiktok: https://tiktok.com/@egamiretta 
 Twitch?? coming soon?
 
-</details id=4>
+</details>
 
 
 <!-- For start course, run in JavaScript:
