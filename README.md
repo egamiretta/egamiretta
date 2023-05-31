@@ -59,7 +59,7 @@ Twitch?? coming soon?
 <details id=1>
 <summary><h2>Current Achievements</h2></summary>
 
-_<h3>Shit I actually did myself</h3> :wave:_
+_<h3>Shit I actually did myself</h3>_
 
 **I made my first repository
 
