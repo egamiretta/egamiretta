@@ -2,17 +2,10 @@
 
 _I'm praticing coding through GitHub. This is my first time doing this._
 
-<!--
-  <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
-
 <details id=0>
 <summary><h2>Egami</h2></summary>
+
+<h3>A little bit about me</h3>
 
 I'm another person trying to learn this program. My name is Egami. 
 Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023). 
@@ -21,58 +14,32 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 - **What do I want to build first?**: The first thing I really want to build is a plugin or plugins for a minecraft server my friend asked me to work on.
 - **Do you even know what you're doing?**: LMFAO. Hell no. I just got here.
 
-
-<summary>Instagram: https://instagram.com/egamiretta
+<details id=4>
+<summary><h3>Socials</h3></summary>
+  
+Instagram: https://instagram.com/egamiretta
 Twitter: https://twitter.com/egamiretta
 Tiktok: https://tiktok.com/@egamiretta 
 Twitch?? coming soon?
-<summary>
+</details></details>
 
-</details>
-
-
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'introduction-to-github',
-  owner: '@me',
-  name: 'skills-introduction-to-github',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
-
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-  
-<details id=1>
+    
+<details id=3>
   <summary><h2>Current!</h2></summary>
-
+<details id=1>
 <summary><h2>Current Achievements</h2></summary>
 
-_Shit I actually did myself :wave:_
+_<h3>Shit I actually did myself</h3>_
 
-
-**I made my first repository
-
-**I made my first branch
-
-**I submitted my first pull request
-
-**I completed my first merge
-
-**I created my first personal repository 
-
-**I made a ReadMe.md and started editing it
-
-**I linked my social media accounts to my GitHub. 
-6. Move on to Step 2!
+- **I made my first repository**
+- **I made my first branch**
+- **I submitted my first pull request**
+- **I completed my first merge**
+- **I created my first personal repository**
+- **I made a ReadMe.md and started editing it**
+- **I linked my social media accounts to my GitHub.**
+- **reformatted this page once :smile:**
+</details>
 
 
 <details id=2>
@@ -81,8 +48,11 @@ _Shit I actually did myself :wave:_
 
 <details id=5>
 <summary><h2>Current Projects</h2></summary>
-</details>
+
+- **working on a friend's minecraft server**
+
+</details></details>
+
 <details id=6>
 <summary><h2>Links to Notes</h2></summary>
 </details>
-
