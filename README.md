@@ -23,7 +23,7 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 </details>
 
 <details id=4>
-<summary><h3>Socials</h3><summary>
+<summary><h3>Socials</h3></summary>
   
   Instagram: https://instagram.com/egamiretta
 Twitter: https://twitter.com/egamiretta
