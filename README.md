@@ -38,6 +38,7 @@ _<h3>Shit I actually did myself</h3>_
 - **I created my first personal repository**
 - **I made a ReadMe.md and started editing it**
 - **I linked my social media accounts to my GitHub.**
+- **reformatted this page once :smile:**
 </details>
 
 
