@@ -54,10 +54,10 @@ Twitch?? coming soon?
   Encourage users to open new tabs for steps!
 -->
     
-
-  <summary><h2>Current!</h2></summary>
-
 <details id=3>
+  <summary><h2>Current!</h2></summary>
+</details>
+<details id=1>
 <summary><h2>Current Achievements</h2></summary>
 
 _Shit I actually did myself :wave:_
@@ -87,7 +87,7 @@ _Shit I actually did myself :wave:_
 </details>
 
 
-</details id=1>
+</details>
 
 <details id=6>
 <summary><h2>Links to Notes</h2></summary>
