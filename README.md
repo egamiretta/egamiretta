@@ -53,6 +53,7 @@ Twitch?? coming soon?
   
 <details id=1>
   <summary><h2>Current!</h2></summary>
+</details>
 
 <summary><h2>Current Achievements</h2></summary>
 
