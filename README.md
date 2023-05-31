@@ -1,4 +1,4 @@
-# About Me
+#<h1> align="center">About Me</h1>
 
 _I'm praticing coding through GitHub. This is my first time doing this._
 
