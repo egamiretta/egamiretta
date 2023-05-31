@@ -56,12 +56,10 @@ Twitch?? coming soon?
     
 <details id=3>
   <summary><h2>Current!</h2></summary>
-</details>
 <details id=1>
 <summary><h2>Current Achievements</h2></summary>
 
 _Shit I actually did myself :wave:_
-
 
 **I made my first repository
 
