@@ -14,6 +14,8 @@ _I'm praticing coding through GitHub. This is my first time doing this._
 <details id=0>
 <summary><h2>Egami</h2></summary>
 
+<h3>A little bit about me</h3>
+
 I'm another person trying to learn this program. My name is Egami. 
 Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023). 
 
