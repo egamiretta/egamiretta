@@ -30,6 +30,7 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 Twitter: https://twitter.com/egamiretta
 Tiktok: https://tiktok.com/@egamiretta 
 Twitch?? coming soon?
+</details>
 
 </details>
 
