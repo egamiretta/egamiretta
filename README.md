@@ -29,7 +29,7 @@ Twitter: https://twitter.com/egamiretta
 Tiktok: https://tiktok.com/@egamiretta 
 Twitch?? coming soon?
 
-</details>
+</details id=0>
 
 
 
