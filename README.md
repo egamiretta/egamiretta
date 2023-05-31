@@ -21,8 +21,7 @@ Instagram: https://instagram.com/egamiretta
 Twitter: https://twitter.com/egamiretta
 Tiktok: https://tiktok.com/@egamiretta 
 Twitch?? coming soon?
-</details>
-</details>
+</details></details>
 
     
 <details id=3>
