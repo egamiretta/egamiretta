@@ -53,7 +53,7 @@ Twitch?? coming soon?
   Encourage users to open new tabs for steps!
 -->
     
-<details id=1>
+
   <summary><h2>Current!</h2></summary>
 
 <details id=3>
