@@ -20,7 +20,7 @@ Fun Fact: I'm actually editing some of this on my phone right now (5/30/2023).
 - **Why did I decide to learn this?**: I needed to learn something new. I also was tired of software, plugins or games that I desired not existing. So I decided I should try learning how to make the stuff I want myself. 
 - **What do I want to build first?**: The first thing I really want to build is a plugin or plugins for a minecraft server my friend asked me to work on.
 - **Do you even know what you're doing?**: LMFAO. Hell no. I just got here.
-</details id=0>
+</details>
 
 <details id=4>
 <summary><h3>Socials</h3><summary>
