@@ -53,7 +53,6 @@ Twitch?? coming soon?
   
 <details id=1>
   <summary><h2>Current!</h2></summary>
-</details>
 
 <details id=3>
 <summary><h2>Current Achievements</h2></summary>
@@ -87,3 +86,4 @@ _Shit I actually did myself :wave:_
 <summary><h2>Links to Notes</h2></summary>
 </details>
 
+</details id=1>
