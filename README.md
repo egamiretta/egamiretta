@@ -82,8 +82,10 @@ _Shit I actually did myself :wave:_
 <details id=5>
 <summary><h2>Current Projects</h2></summary>
 </details>
+
+
+</details id=1>
+
 <details id=6>
 <summary><h2>Links to Notes</h2></summary>
 </details>
-
-</details id=1>
