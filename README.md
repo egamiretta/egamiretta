@@ -47,7 +47,7 @@ _<h3>Shit I actually did myself</h3>_
 
 <details id=5>
 <summary><h2>Current Projects</h2></summary>
-</details> </details>
+</details></details>
 
 <details id=6>
 <summary><h2>Links to Notes</h2></summary>
