@@ -77,7 +77,7 @@ _Shit I actually did myself :wave:_
 
 <details id=2>
 <summary><h2>Current Small Goals</h2></summary>
-
+</details>
 
 <details id=5>
 <summary><h2>Current Projects</h2></summary>
